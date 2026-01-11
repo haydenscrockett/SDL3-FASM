@@ -1,4 +1,4 @@
-# Flat Assembler SDL3 Appliction
+# Flat Assembler SDL3 Example
 **This code provides an example of using SDL3 with Flat Assembler.**
 
 **main.asm should be assembled on Linux (64-bit) in a folder containing elf.inc and import64.inc.**
